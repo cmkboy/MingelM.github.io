@@ -1,5 +1,4 @@
 # MingleM's blog
-
 ## 分布式的概念与实现
 ### 负载均衡
 #### Nginx
@@ -40,8 +39,6 @@
 ### 搜索
 	elasticsearch,solr
 ### 日志
-	rsyslog,elk,flume
-
 
 [Link](url) and ![Image](src)
 
